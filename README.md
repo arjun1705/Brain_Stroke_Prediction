@@ -1,6 +1,5 @@
 # Brain_Stroke_Prediction
 
-# Stroke Prediction Model
 
 ## Overview 🚀
 The Stroke Prediction Model project is designed to assess stroke risk using advanced machine learning techniques. This end-to-end solution covers data collection, preprocessing, model selection, training, hyperparameter tuning, and deployment. A user-friendly interface delivers real-time predictions and comprehensive reports with actionable recommendations.
